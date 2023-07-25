@@ -1,0 +1,10 @@
+* cl-diceware
+
+Diceware passphrase generator in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/billstclair/cl-diceware.git   |
+| commit  | b38cd88  |
+| systems | cl-diceware |
+|---------+-------------------------------------------|
+
